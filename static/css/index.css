@@ -199,9 +199,63 @@ body {
   width: 100%;
 }
 .best {
-  font-weight: bold; /* 加粗 */
+  font-weight: bold; 
 }
 
 .second-best {
-  text-decoration: underline; /* 下划线 */
+  text-decoration: underline; 
+}
+.niagara-main {
+  display: block;
+  margin-bottom: 0.5rem; 
+}
+
+.niagara-name {
+  color: #007BFF; 
+  margin-left: 5px; 
+}
+
+.niagara-icon {
+  width: 20px;
+  height: 20px;
+  vertical-align: middle;
+}
+
+
+.publication-title {
+  font-family: 'Arial', sans-serif;
+  font-size: 2.5rem; 
+  line-height: 1.2;
+}
+
+
+.publication-title:not(.niagara-main) {
+  color: inherit; 
+}
+
+
+
+.niagara-main {
+    display: block;
+    margin-bottom: 0.8rem;
+    line-height: 1.2;
+}
+
+.niagara-name {
+    color: #007BFF;
+    margin-left: 8px; 
+    vertical-align: middle;
+}
+
+.niagara-icon {
+    width: 32px;      
+    height: 32px;
+    vertical-align: -4px; 
+}
+
+
+.publication-title {
+    font-family: 'Arial', sans-serif;
+    font-size: 2.5rem;
+    line-height: 1.4;
 }
