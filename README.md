@@ -1,5 +1,5 @@
 
-Webpage for our paper: Niagara: Normal-Integrated Geometric Affine Fields for Scene Reconstruction from a Single View
+Webpage for our paper: Niagara: Normal-Integrated Geometric Affine Fields for Scene Reconstruction from a Single View.
 
 <p align="center">
   </br>
