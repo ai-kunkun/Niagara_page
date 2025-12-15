@@ -3,7 +3,7 @@ Webpage for our paper: Niagara: Normal-Integrated Geometric Affine Fields for Sc
 
 <p align="center">
   </br>
-    <a href="https://arxiv.org/">
+    <a href="https://ieeexplore.ieee.org/document/11299106/">
       <img src='https://img.shields.io/badge/Paper-Arxiv-red?style=for-the-badge&logo=arXiv&logoColor=white&logoSize=20&labelColor=252%2C%20236%2C%203' alt='Paper PDF'></a>
     <a href='https://ai-kunkun.github.io/Niagara_page/'>
       <img src='https://img.shields.io/badge/Project-Page-orange?style=for-the-badge&logo=Google%20chrome&logoColor=white&labelColor=D35400' alt='Project Page'></a>
